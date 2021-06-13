@@ -1,4 +1,6 @@
 # Library-Project
+This is a JAVA application for registered accounts to borrow books up tp two weeks.
+
 First Page :
 Login
 Register
