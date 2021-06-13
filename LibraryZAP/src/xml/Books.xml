@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Books>
+<Book>
+    <bookName>The Kite Runner</bookName>
+    <Author>Khaled Hosseini</Author>
+    <Genre>Fiction</Genre>
+</Book>
+<Book>
+    <bookName>1984</bookName>
+    <Author>George Orwell</Author>
+    <Genre>Classic</Genre>
+</Book>
+<Book>
+    <bookName>The Red Book</bookName>
+    <Author>C.G. Jung</Author>
+    <Genre>Psychology</Genre>
+</Book>
+<Book>
+    <bookName>Tao Te Ching</bookName>
+    <Author>Lao Tzu</Author>
+    <Genre>Philosophy</Genre>
+</Book>
+<Book>
+    <bookName>The Picture Of Dorian Gray</bookName>
+    <Author>Oscar Wilde</Author>
+    <Genre>Classic</Genre>
+</Book>
+<Book>
+    <bookName>Rant</bookName>
+    <Author>Chuck Palahniuk</Author>
+    <Genre>Fiction</Genre>
+</Book>
+<Book>
+    <bookName>The Catcher In The Rye</bookName>
+    <Author>J.D. Salinger</Author>
+    <Genre>Classic</Genre>
+</Book>
+<Book>
+    <bookName>The Hitchhiker's Guide to the Galaxy</bookName>
+    <Author>Douglas Adams</Author>
+    <Genre>Science Fiction</Genre>
+</Book>
+<Book>
+    <bookName>The Blind Owl</bookName>
+    <Author>Sadegh Hedayat</Author>
+    <Genre>Fiction</Genre>
+</Book>
+<Book>
+    <bookName>The Midnight Library</bookName>
+    <Author>Matt Haig</Author>
+    <Genre>Fiction</Genre>
+</Book>
+<Book>
+    <bookName>Demian</bookName>
+    <Author>Hermann Hesse</Author>
+    <Genre>Fiction</Genre>
+</Book>
+</Books>
